@@ -4,7 +4,7 @@
   <tr>
     <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Sigiitttt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+        src="https://github-readme-stats.vercel.app/api?username=Sigiitttt&show_icons=true&theme=tokyonight&hide_border=true"
         alt="GitHub Stats"
       />
     </td>
@@ -16,6 +16,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ---
