@@ -1,21 +1,8 @@
 ### Hi there 👋, I'm Sigit!
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Sigiitttt&show_icons=true&theme=tokyonight&hide_border=true"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sigiitttt&layout=compact&theme=tokyonight&hide_border=true"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sigiitttt&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sigiitttt&layout=compact&theme=tokyonight&hide_border=true)
 
 
 
