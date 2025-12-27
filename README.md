@@ -4,13 +4,13 @@
   <tr>
     <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Sigiitttt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-        alt="GitHub Stats"
+        src="https://github-readme-stats.vercel.app/api?username=Sigiitttt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=0"
+        alt="Sigiitttt GitHub Stats"
       />
     </td>
     <td align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sigiitttt&layout=compact&theme=tokyonight&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sigiitttt&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0"
         alt="Top Languages"
       />
     </td>
