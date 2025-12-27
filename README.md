@@ -1,11 +1,21 @@
 ### Hi there 👋, I'm Sigit!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sigiitttt&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sigiitttt&layout=compact&theme=tokyonight&hide_border=true)
-
-
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Sigiitttt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sigiitttt&layout=compact&theme=tokyonight&hide_border=true"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 ---
 
 ### 💻 Tech Stack:
