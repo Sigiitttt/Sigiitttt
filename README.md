@@ -3,19 +3,31 @@
 <table align="center">
   <tr>
     <td align="center">
+      <b>A. Stats</b><br>
       <img
         src="https://github-readme-stats.vercel.app/api?username=Sigiitttt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-        alt="Sigiitttt GitHub Stats"
+        width="300"
       />
     </td>
+
     <td align="center">
+      <b>B. Languages</b><br>
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sigiitttt&layout=compact&theme=tokyonight&hide_border=true"
-        alt="Top Languages"
+        width="300"
+      />
+    </td>
+
+    <td align="center">
+      <b>C. Streak</b><br>
+      <img
+        src="https://streak-stats.demolab.com?user=Sigiitttt&theme=tokyonight&hide_border=true"
+        width="300"
       />
     </td>
   </tr>
 </table>
+
 ---
 
 ### 💻 Tech Stack:
