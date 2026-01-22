@@ -41,7 +41,7 @@
 <td align="center">
 <b>C. Streak</b><br>
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=Sigiitttt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=percentile" 
+  src="https://github-readme-stats.vercel.app/api?username=Sigiitttt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile&custom_title=Performance%20Rank" 
 />
 </td>
 </table>
@@ -52,7 +52,10 @@
 ## 🏆 GitHub Trophy
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sigiitttt&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Sigiitttt&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10&v=2"
+    alt="GitHub Trophy"
+  />
 </p>
 
 ---
