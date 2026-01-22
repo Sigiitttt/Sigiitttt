@@ -40,10 +40,9 @@
 
 <td align="center">
 <b>C. Streak</b><br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sigiitttt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Performance%20Rank" />
-</p>
-
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Sigiitttt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=percentile" 
+/>
 </td>
 </table>
 
