@@ -40,7 +40,10 @@
 
 <td align="center">
 <b>C. Streak</b><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sigiitttt&theme=tokyonight&hide_border=true&v=1" width="300" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sigiitttt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=Performance%20Rank" />
+</p>
+
 </td>
 </table>
 
