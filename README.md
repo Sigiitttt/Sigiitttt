@@ -47,10 +47,9 @@
 ---
 
 ## 🏆 GitHub Trophy
-
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=Sigiitttt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6"
+    src="https://github-profile-trophy.vercel.app/?username=Sigiitttt&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15&cache_seconds=86400" 
   />
 </p>
 
