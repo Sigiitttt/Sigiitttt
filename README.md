@@ -27,19 +27,19 @@
 ## 📊 GitHub Analytics
 
 <!-- 🔥 Stats -->
-<p align="center">
-  <img 
-    src="https://github-readme-stats-fast.vercel.app/api?username=Sigiitttt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=default&cache_seconds=86400" 
-    width="420"
-  />
-</p>
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Sigiitttt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=default" width="400"/>
+</td>
+<td>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sigiitttt&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
+</td>
+</tr>
+</table>
 
-<!-- 💻 Languages -->
 <p align="center">
-  <img 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sigiitttt&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
-    width="420"
-  />
+<img src="https://streak-stats.demolab.com/?user=Sigiitttt&theme=tokyonight&hide_border=true" width="420"/>
 </p>
 
 <!-- 🔥 Streak -->
