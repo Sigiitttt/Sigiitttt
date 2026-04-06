@@ -25,7 +25,14 @@
 ---
 
 ## 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Sigiitttt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=default&include_all_commits=true" 
+    width="400"
+  />
+</p>
 <table align="center">
 <tr>
 <td align="center">
