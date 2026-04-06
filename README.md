@@ -44,14 +44,6 @@
 </tr>
 </table>
 
-<p align="center">
-<img 
-  src="https://streak-stats.demolab.com/?user=Sigiitttt&theme=tokyonight&hide_border=true" 
-  width="420"
-/>
-</p>
-
-
 <!-- 🔥 Streak -->
 <p align="center">
   <img 
