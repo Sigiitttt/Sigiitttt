@@ -25,35 +25,24 @@
 ---
 
 ## 📊 GitHub Analytics
-## 📊 GitHub Analytics
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Sigiitttt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=default&include_all_commits=true" 
-    width="400"
+    src="https://github-readme-stats.vercel.app/api?username=Sigiitttt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile&cache_seconds=86400" 
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sigiitttt&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+    height="160"
   />
 </p>
-<table align="center">
-<tr>
-<td align="center">
-<b>Languages</b><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sigiitttt&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-</td>
 
-<td align="center">
-<b>Stats</b><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Sigiitttt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"/>
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-<b>Streak</b><br>
-<img src="https://streak-stats.demolab.com/?user=Sigiitttt&theme=tokyonight&hide_border=true"/>
-</td>
-</tr>
-</table>
-
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=Sigiitttt&theme=tokyonight&hide_border=true" 
+    height="160"
+  />
+</p>
 
 ---
 
@@ -61,13 +50,11 @@
 
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=Sigiitttt&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10&v=2"
-    alt="GitHub Trophy"
+    src="https://github-profile-trophy.vercel.app/?username=Sigiitttt&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6"
   />
 </p>
 
 ---
-
 ## 🔗 Connect With Me
 
 <p align="center">
